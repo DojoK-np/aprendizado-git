@@ -1,0 +1,1 @@
+"Boas práticas para colaboração incluem a criação de branches específicas para cada tarefa, a realização de commits pequenos e específicos, a comunicação eficaz entre membros da equipe, e a revisão de código para garantir a qualidade. Além disso, é importante evitar a inclusão de arquivos sensíveis nos repositórios e seguir convenções de nomenclatura consistentes."
